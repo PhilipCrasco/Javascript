@@ -113,5 +113,5 @@ document.getElementById("increaseBtn").onclick = function()
 {
  count += 1;
  document.getElementById("countlabel").innerHTML = count;
-//sssss
+
 }
