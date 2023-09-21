@@ -53,7 +53,7 @@ for(let x = 1 ; x <= 24 ; x+= 1)
     console.log(x);12
 }
 */
-\
+
 // Nested loop = a loop inside a loop
 
 let symbol = window.prompt("Enter symbol to use");
